@@ -18,7 +18,7 @@ npm run dev
 Start a second shell for the frontend:
 
 ~~~bash
-cd Code4City/frontend
+cd ../frontend
 npm install
 cp .env.example .env.local
 # Configure the backend URL and relevant Maps/Gemini credentials
